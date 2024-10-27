@@ -1,3 +1,5 @@
+#Replace the double space from problem 3 with single spaces
+
 name = "Drishya is a good  boy  and"
 
 print(name.replace("  "," ")) #This doesen't change the original string it just creates a new one and prints it with the edits you want
